@@ -6,7 +6,7 @@
 - `config/hypr`: hyprland configuration file
 - `config/kitty`: terminal config - not much here either
 - `config/waybar`: waybar configuration files
-- `config/wofi`: vibe-coded pretty launcher, 20 well-spent minutes
+- `config/wofi`: vibe-coded *config* for a pretty launcher, 20 well-spent minutes
 
 ## Organisation
 - `config/` == `.config/`
