@@ -5,6 +5,7 @@
 - `config/gtk-3.0`: simple theme setting
 - `config/hypr`: hyprland configuration file
 - `config/kitty`: terminal config - not much here either
+- `config/nvim`: NeoVIM (btw)
 - `config/waybar`: waybar configuration files
 - `config/wofi`: vibe-coded *config* for a pretty launcher, 20 well-spent minutes
 
