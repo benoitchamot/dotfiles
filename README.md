@@ -2,6 +2,7 @@
 ## Included
 - `.bashrc`: a simple bash config, mainly just the prompt with some info
 - `.tmux.conf`: guess...!?
+- `config/gtk-3.0`: simple theme setting
 - `config/hypr`: hyprland configuration file
 - `config/waybar`: waybar configuration files
 
