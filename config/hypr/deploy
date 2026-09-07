@@ -1,0 +1,12 @@
+#!/bin/bash
+
+confDir=/home/$USER/.config/hypr
+backup=hyprland.conf.bkp
+config=hyprland.lua
+
+# Get the good stuff back out
+cp ./${config} ${confDir}/${config}
+
+# Back up the old stuff
+mv ${confDir}/hyprland.conf ./${backup} 
+
