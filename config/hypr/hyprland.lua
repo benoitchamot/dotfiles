@@ -17,7 +17,7 @@ hl.monitor({
 
 -- Define wallpapers
 -- TODO: define these in a list, and make them dependent on the monitors above
-local wpr1  = "swaybg -o HDMI-A-1 -i /home/$USER/Pictures/wallpapers/mars-2560x1440.jpg"
+local wpr1  = "swaybg -o HDMI-A-1 -i /home/$USER/Pictures/wallpapers/greenai.jpg"
 local wpr2  = "swaybg -o DP-1 -c 121212"
 
 -- Wallpapers and bars
