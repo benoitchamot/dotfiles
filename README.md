@@ -4,6 +4,7 @@
 - `.tmux.conf`: guess...!?
 - `config/gtk-3.0`: simple theme setting
 - `config/hypr`: hyprland configuration file
+- `config/kitty`: terminal config - not much here either
 - `config/waybar`: waybar configuration files
 
 ## Organisation
