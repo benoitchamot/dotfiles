@@ -1,0 +1,13 @@
+width=20%
+height=20%
+lines=10
+columns=1
+location=center
+
+prompt=Whatyawant?
+matching=fuzzy
+insensitive=true
+exec_search=false
+
+style=/home/benny/.config/wofi/style.css
+#gtk_dark=true
