@@ -65,8 +65,17 @@ vim.api.nvim_create_autocmd('FileType', {
 })
 
 -- LSP
-vim.lsp.enable('pyright')
 
+-- Config (TODO: enable autocompletion)
+-- See: https://neovim.io/doc/user/lsp/#lsp-config
+-- See: https://blog.viktomas.com/graph/neovim-native-built-in-lsp-autocomplete/
+vim.opt.completeopt = { "menuone", "noselect", "popup" }
+
+-- Enable LSPs
+vim.lsp.enable('pyright')
+vim.lsp.enable('bashls')
+
+-- Diagnostic
 vim.diagnostic.config({
   virtual_text = {
     prefix = "●", -- could be '■', '▎', 'x'
